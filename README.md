@@ -1,6 +1,6 @@
 # Fashion-MNIST-Image-Classification
 ##https://colab.research.google.com/drive/11SS0dz1QFN7iV62Zm1Rb3PEQO7YpQbuw
-
+Taks Enhancement:
 #Question:
 ###1. What is the Fashion MNIST dataset?
 The fashion MNIST dataset consists of grayscale images of various fashion items, divided into two sets for training and testing.
